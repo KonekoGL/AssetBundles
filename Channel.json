@@ -16,7 +16,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -24,8 +25,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -35,7 +56,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -43,9 +65,9 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
             "https://picsum.photos/1980/1080",
@@ -54,16 +76,17 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS2",
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -73,26 +96,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS3",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -100,8 +105,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -111,7 +136,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -119,8 +145,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -130,7 +176,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -138,8 +185,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -149,7 +216,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -157,8 +225,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -168,7 +256,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -176,8 +265,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -187,7 +296,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -195,8 +305,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -206,7 +336,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -214,8 +345,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -225,7 +376,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -233,8 +385,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -244,7 +416,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -252,8 +425,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -263,7 +456,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -271,8 +465,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -282,7 +496,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -290,8 +505,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -301,7 +536,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -309,8 +545,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -320,7 +576,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -328,8 +585,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -339,7 +616,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -347,8 +625,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -358,7 +656,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -366,8 +665,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -377,7 +696,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -385,8 +705,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -396,7 +736,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -404,8 +745,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -415,7 +776,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -423,8 +785,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -434,7 +816,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -442,8 +825,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -453,7 +856,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -461,8 +865,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -472,7 +896,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -480,8 +905,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -491,7 +936,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -499,8 +945,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -510,7 +976,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -518,8 +985,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -529,7 +1016,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -537,8 +1025,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -548,7 +1056,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -556,8 +1065,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -567,7 +1096,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -575,8 +1105,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -586,7 +1136,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -594,8 +1145,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -605,7 +1176,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -613,8 +1185,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -624,7 +1216,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -632,8 +1225,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -643,7 +1256,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -651,8 +1265,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -662,7 +1296,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -670,8 +1305,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -681,7 +1336,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -689,8 +1345,28 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
+        "previewSprites":[
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080",
+            "https://picsum.photos/1980/1080"
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
+    },
+    {
+        "channelName":"Casino",
+        "available":"true",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
         "color":"#DD0DB0",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
@@ -700,7 +1376,8 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "AssetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     },
     {
         "channelName":"Huevos",
@@ -708,9 +1385,9 @@
         "channelId":"HUEVOS",
         "protocolType":"SOCKET",
         "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#FF00FF",
         "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[
             "https://picsum.photos/1980/1080",
@@ -719,253 +1396,7 @@
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080",
             "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
-    },
-    {
-        "channelName":"Huevos",
-        "available":"false",
-        "channelId":"HUEVOS",
-        "protocolType":"SOCKET",
-        "minPlayers":"2",
-        "maxPlayers":"8",
-        "number":"2",
-        "color":"#DD0DB0",
-        "thumbnailSprite":"https://picsum.photos/1980/1080",
-        "previewSprites":[
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080",
-            "https://picsum.photos/1980/1080"
-        ]
+        ],
+        "assetBundleId":"https://github.com/KonekoGL/AssetBundles/raw/main/prefabimages"
     }
 ]

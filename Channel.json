@@ -1,14 +1,14 @@
 [
     {
         "channelName":"Casino",
-        "available":"false",
+        "available":"true",
         "channelId":"CASINO",
         "protocolType":"SOCKET",
         "minPlayers":"2",
         "maxPlayers":"12",
         "number":"1",
         "color":"#DD0DB0",
-        "thumbnailSprite":"/Uploads/Thumbnail.png",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[{
             "0":"https://picsum.photos/1980/1080",
             "1":"https://picsum.photos/1980/1080",
@@ -27,7 +27,7 @@
         "maxPlayers":"8",
         "number":"2",
         "color":"#DD0DB0",
-        "thumbnailSprite":"/Uploads/Thumbnail.png",
+        "thumbnailSprite":"https://picsum.photos/1980/1080",
         "previewSprites":[{
             "0":"https://picsum.photos/1980/1080",
             "1":"https://picsum.photos/1980/1080",

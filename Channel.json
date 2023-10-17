@@ -1,15 +1,15 @@
 [
     {
-        "Available":"false",
-        "ChannelName":"Casino",
-        "ChannelId":"CASINO",
-        "ProtocolType":"SOCKET",
-        "MinPlayers":"2",
-        "MaxPlayers":"12",
-        "Number":"1",
-        "Color":"#DD0DB0",
-        "ThumbnailSprite":"/Uploads/Thumbnail.png",
-        "PreviewSprites":{
+        "channelName":"Casino",
+        "available":"false",
+        "channelId":"CASINO",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"12",
+        "number":"1",
+        "color":"#DD0DB0",
+        "thumbnailSprite":"/Uploads/Thumbnail.png",
+        "previewSprites":{
             "0":"https://picsum.photos/1980/1080",
             "1":"https://picsum.photos/1980/1080",
             "2":"https://picsum.photos/1980/1080",
@@ -19,16 +19,16 @@
         }
     },
     {
-        "Available":"false",
-        "ChannelName":"Huevos",
-        "ChannelId":"huevos",
-        "ProtocolType":"SOCKET",
-        "MinPlayers":"2",
-        "MaxPlayers":"8",
-        "Number":"2",
-        "Color":"#ED5D00",
-        "ThumbnailSprite":"/Uploads/Thumbnail.png",
-        "PreviewSprites":{
+        "channelName":"Huevos",
+        "available":"false",
+        "channelId":"HUEVOS",
+        "protocolType":"SOCKET",
+        "minPlayers":"2",
+        "maxPlayers":"8",
+        "number":"2",
+        "color":"#DD0DB0",
+        "thumbnailSprite":"/Uploads/Thumbnail.png",
+        "previewSprites":{
             "0":"https://picsum.photos/1980/1080",
             "1":"https://picsum.photos/1980/1080",
             "2":"https://picsum.photos/1980/1080",
